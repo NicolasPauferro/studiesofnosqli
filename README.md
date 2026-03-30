@@ -102,7 +102,6 @@ Content-Type: application/json
 
 [![Demonstração NoSQL Injection](https://i.ytimg.com/vi/D8cCPUzW3wA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFsgWyhbMA8=&rs=AOn4CLCsYmHFfpP49-FVgX-BGaimEUgytA)](https://www.youtube.com/watch?v=D8cCPUzW3wA)
 
-https://youtu.be/D8cCPUzW3wA
 
 ---
 
@@ -128,4 +127,4 @@ https://youtu.be/D8cCPUzW3wA
 - **Name:** Nicolas Pauferro
 - **GitHub:** [NicolasPauferro](https://github.com/NicolasPauferro)
 - **Discovery Date:** 2026-03-29
-- **Disclosure Status:** Private disclosure to security@getcockpit.com.
+
