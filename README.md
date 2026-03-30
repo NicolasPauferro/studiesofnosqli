@@ -1,0 +1,2 @@
+# studiesofnosqli
+nothing
